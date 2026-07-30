@@ -32,6 +32,5 @@ Busco minha primeira oportunidade profissional ou participação em projetos ope
 
 ## 📫 Contato
 
-*   **E-mail:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+*   **E-mail:** [mellogaldino07@gmail.com](mailto:mellogaldino07@gmail.com)
 *   **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
-*   **Portfólio:** [seu-portfolio.com](https://seu-portfolio.com)
