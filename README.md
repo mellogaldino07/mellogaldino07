@@ -33,5 +33,5 @@ Busco minha primeira oportunidade profissional ou participação em projetos ope
 ## 📫 Contato
 
 *   **E-mail:** [mellogaldino07@gmail.com](mailto:mellogaldino07@gmail.com)
-*   **LinkedIn:** [https://www.linkedin.com/in/gustavomellogaldino/](https://www.linkedin.com/in/seu-perfil)
+*   **LinkedIn:** https://www.linkedin.com/in/gustavomellogaldino/
 
